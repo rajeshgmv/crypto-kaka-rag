@@ -1,0 +1,15 @@
+pyspark
+kafka-python-ng
+langchain
+langchain-community
+langchain-ollama
+chromadb
+requests
+Flask>=2.0
+langchain_core
+langchain_text_splitters
+langchain_ollama
+langchain_community
+faiss-cpu
+pypdf
+langchain
